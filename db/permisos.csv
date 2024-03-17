@@ -1,0 +1,61 @@
+id_permiso,padre,nombre,endpoint,activo
+0,NULL,Alpha,NULL,1
+1,0,Dashboard,dashboard,1
+2,0,Personal,personal,1
+3,0,Dispositivos,dispositivos,1
+4,0,Reportes,reportes,1
+5,0,Sistema,sistema,1
+101,1,Gráfico de Asistencia,dbasistencias,1
+102,1,Estadisticas Generales,dbestadisticas,1
+103,1,Cumpleaños,dbaniversarios,1
+104,1,Gráfico de Rotación,dbrotacion,1
+105,1,Gráfico de Salarios,dbsalarios,1
+201,2,Unidades,unidades,1
+202,2,Departamentos,departamentos,1
+203,2,Puestos,puestos,1
+204,2,Horarios,horarios,1
+205,2,Empleados,empleados,1
+206,2,Aprovaciones,aprobacion,1
+207,2,Vacaciones,vacaciones,1
+208,2,Renuncias,renuncias,1
+209,2,Tipos de Empleados,tipos-empleados,1
+210,2,Dias Feriados,dias-feriados,1
+211,2,Códigos de Pago,codigos-de-pago,1
+212,2,Politicas de Pago,politicas-de-pago,1
+301,3,Dispositivos,biometricos,1
+302,3,Sincronizar Datos,sincronizar,1
+303,3,Cargar Eventos USB,datosusb,1
+304,3,Descargar Eventos,descargar,1
+305,3,Enrolamiento Remoto,enrolar,1
+306,3,Registros,registros,1
+307,3,Excepciones,excepciones,1
+401,4,Asistencia,Asistencias,1
+402,4,Incidencias,incidencias,1
+404,4,Tiempos Extras,textras,1
+405,4,Calendario,calendario,1
+406,4,Horarios y Turnos,horarios,1
+407,4,Consultas y Reportes,consultas,1
+408,4,Retrasos,retrasos,1
+409,4,Vacaciones,vacaciones,1
+410,4,Reasignaciones,Reasignaciones,1
+411,4,Terminales,terminales,1
+501,5,Perfiles,perfil,1
+502,5,Usuarios,usuario,1
+503,5,Bitacora,bitacora,1
+504,5,Configurar Correo,correo,1
+2051,205,Información General,empleados_ig,1
+2052,205,Información Personal,empleados_ip,1
+2053,205,Información Dispositivo,empleados_bio,1
+2054,205,Configuración Asistencia,empleados_att,1
+2055,205,Documentos,documentos,1
+2056,205,Descargar,descargar,1
+3011,301,Comandos de dispositivo,enviacomandos,1
+4071,407,Total Asistencia,rasistenciatotal,1
+4072,407,Excepciones,rexcepciones,1
+4073,407,Retardos,rretardos,1
+4074,407,Salidas Anticipadas,rrsalidasant,1
+4075,407,Cumpleaños,raniversario,1
+4076,407,Tiempo Extra,rtiempoextra,1
+4077,407,Ausencias,rfaltas,1
+4078,407,Descansos,rdescansos,1
+4079,407,Prenomina,rprenomina,1
